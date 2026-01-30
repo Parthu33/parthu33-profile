@@ -1,4 +1,4 @@
-# Hi there, I'm Parth Wattamwar 👋
+# Hi there, I'm Parth Wattamwar.  👋
 
 <div align="center">
   
