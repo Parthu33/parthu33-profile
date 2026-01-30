@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthwattamwar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1p3SMAUT8AJ-3ImvzpJVU-q1zRARaoJEG/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/14nfUjpYg0WxPeQwu96eaMFx2lcHNpzzX/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthuwattamwar03@gmail.com)
 
 </div>
